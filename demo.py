@@ -1,6 +1,6 @@
-print("Priya Chandak")
+hungry = input("are you hungry?")
 
-print("Prathmesh Bandal")
-
-
-print("nnnnnnnnnnnnnjefnjnfjnfjnfj")
+if hungry=='yes':
+    print('eat something')
+else:
+    print("That's better")
