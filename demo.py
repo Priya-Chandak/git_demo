@@ -8,7 +8,7 @@ if hungry=='yes':
 elif hungry=='no':
     print('Ok')
 elif hungry=='N':
-    print('Thanks for update')
+    print('Thanks for update  prathmesh')
 else:
     print("That's better")
     print("")
