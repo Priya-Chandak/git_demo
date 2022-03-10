@@ -7,6 +7,8 @@ if hungry=='yes':
     print('eat samosa')
 elif hungry=='no':
     print('Ok')
+elif hungry=='N':
+    print('Thanks for update')
 else:
     print("That's better")
     print("")
