@@ -9,3 +9,5 @@ elif hungry=='no':
     print('Ok')
 else:
     print("That's better")
+    print("")
+    print("") print("")
